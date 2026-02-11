@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hola, soy Pol
+Estudiante de CFGS Desenvolupament d'Aplicacions Multiplataforma (DAM) en Escola Pia Mataró.
+🎓 Sobre mí
 
-<!--
-**PolHernaez/PolHernaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Cursando primer año de DAM
+💻 Enfocado en desarrollo de aplicaciones y programación
+🎯 Apasionado por resolver problemas mediante código
+📍 Arenys de Munt, Barcelona
 
-Here are some ideas to get you started:
+🛠️ Tecnologías y Herramientas
+Lenguajes
+Java  •  SQL  •  HTML/CSS
+Herramientas
+VS Code  •  Git  •  Maven  •  VirtualBox
+Sistemas
+Windows 11  •  Linux
+📂 Projectes Destacats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Escacs (Chess)]([url](https://github.com/PolHernaez/PE07-Escacs)) - Joc complet d'escacs desenvolupat en Java amb testing JUnit
+[Joc de l'Oca ]([url](https://github.com/PolHernaez/PE6--Joc-de-l-oca-Pol-Hernaez))- Implementació del joc de taula clàssic en Java
