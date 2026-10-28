@@ -1,10 +1,12 @@
-<!-- HEADER: la H se traza, la recorre un escaneo y a ratos hace glitch; versión clara y oscura -->
+<!-- HEADER: el logo de MusyH y la H gruesa se turnan, con "DESCARGA MUSYH" pasando debajo; enlaza a la descarga -->
 <div align="center">
+<a href="https://github.com/PolHernaez/mapphify-app/releases/latest/download/Mapphify.apk">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-dark.svg" alt="Pol Hernaez — desarrollador multiplataforma con rumbo a la IA" width="100%">
+  <img src="assets/header-dark.svg" alt="Pol Hernaez — desarrollador multiplataforma con rumbo a la IA. Descarga MusyH" width="100%">
 </picture>
+</a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FF2D3D&center=true&vCenter=true&width=620&lines=Estudiante+de+DAM+%C2%B7+pr%C3%A1cticas+en+NTT+DATA;Java+%C2%B7+SQL+%C2%B7+Firebase+%C2%B7+IA+generativa;Curioso+por+naturaleza%3A+investigo+hasta+que+funciona;Buscando+un+equipo+de+IA+donde+crecer" alt="Estudiante de DAM con prácticas en NTT DATA. Java, SQL, Firebase e IA generativa.">
 
