@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Pol Hernaez — Desarrollo de aplicaciones multiplataforma" width="100%">
+<img src="banner-v2.svg" alt="Pol Hernaez — Desarrollo de aplicaciones multiplataforma" width="100%">
 
 </div>
 
@@ -13,12 +13,12 @@ Estudiante de segundo de **DAM** (Escola Pia Mataró) con prácticas en **NTT DA
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-FF2E3A?style=for-the-badge&labelColor=0E0C0B&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F3EEE6?style=for-the-badge&labelColor=0E0C0B&logo=postgresql&logoColor=0E0C0B)
+![SQL](https://img.shields.io/badge/SQL-FF2E3A?style=for-the-badge&labelColor=0E0C0B&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FF2E3A?style=for-the-badge&labelColor=0E0C0B&logo=firebase&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-F3EEE6?style=for-the-badge&labelColor=0E0C0B&logo=html5&logoColor=0E0C0B)
-![CSS3](https://img.shields.io/badge/CSS3-F3EEE6?style=for-the-badge&labelColor=0E0C0B&logo=css3&logoColor=0E0C0B)
+![HTML5](https://img.shields.io/badge/HTML5-FF2E3A?style=for-the-badge&labelColor=0E0C0B&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF2E3A?style=for-the-badge&labelColor=0E0C0B&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF2E3A?style=for-the-badge&labelColor=0E0C0B&logo=git&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-F3EEE6?style=for-the-badge&labelColor=0E0C0B&logo=intellijidea&logoColor=0E0C0B)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-FF2E3A?style=for-the-badge&labelColor=0E0C0B&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-FF2E3A?style=for-the-badge&labelColor=0E0C0B&logo=visualstudiocode&logoColor=white)
 
 </div>
