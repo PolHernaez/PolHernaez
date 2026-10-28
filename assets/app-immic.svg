@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" width="320" height="260" role="img" aria-label="Immic: Lista de tareas por voz, clara y sin distracciones. Descargar APK">
+<rect x="1" y="1" width="318" height="258" rx="14" fill="#0A0909" stroke="#2a2424" stroke-width="2"/>
+<g transform="translate(28,26) scale(1.2)" fill="none" stroke="#FF2D3D" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="14" y="3" width="12" height="21" rx="6"/><path d="M7,19 A13,13 0 0 0 33,19"/><path d="M20,32 V38"/></g>
+<text x="28" y="132" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="48" fill="#F2EDE4">Immic</text>
+<text x="28" y="164" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#F2EDE4" opacity=".72">Lista de tareas por voz,</text>
+<text x="28" y="186" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#F2EDE4" opacity=".72">clara y sin distracciones.</text>
+<text x="28" y="230" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="14" font-weight="700" letter-spacing="2" fill="#FF2D3D">DESCARGAR APK →</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Niveles: Java y SQL avanzado; Firestore, HTML y CSS medio">
+<rect width="900" height="300" rx="14" fill="#0A0909" stroke="#2a2424"/>
+<text x="40" y="48" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2" fill="#FF2D3D">NIVEL · MEDIDO EN ANILLOS DE COLA</text>
+<text x="40" y="106" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#F2EDE4">Java</text>
+<rect x="200" y="92" width="520" height="20" rx="10.0" fill="none" stroke="#FF2D3D" stroke-width="2"/><rect x="203" y="95" width="53.7333" height="14" rx="7" fill="#FF2D3D"/><rect x="289.667" y="95" width="53.7333" height="14" rx="2" fill="#FF2D3D"/><rect x="376.333" y="95" width="53.7333" height="14" rx="2" fill="#FF2D3D"/><rect x="463" y="95" width="53.7333" height="14" rx="2" fill="#FF2D3D"/><rect x="549.667" y="95" width="53.7333" height="14" rx="2" fill="#FF2D3D"/>
+<text x="750" y="107" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#F2EDE4" opacity=".65">avanzado</text>
+<text x="40" y="150" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#F2EDE4">SQL</text>
+<rect x="200" y="136" width="520" height="20" rx="10.0" fill="none" stroke="#FF2D3D" stroke-width="2"/><rect x="203" y="139" width="53.7333" height="14" rx="7" fill="#FF2D3D"/><rect x="289.667" y="139" width="53.7333" height="14" rx="2" fill="#FF2D3D"/><rect x="376.333" y="139" width="53.7333" height="14" rx="2" fill="#FF2D3D"/><rect x="463" y="139" width="53.7333" height="14" rx="2" fill="#FF2D3D"/><rect x="549.667" y="139" width="53.7333" height="14" rx="2" fill="#FF2D3D"/>
+<text x="750" y="151" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#F2EDE4" opacity=".65">avanzado</text>
+<text x="40" y="194" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#F2EDE4">Firestore</text>
+<rect x="200" y="180" width="520" height="20" rx="10.0" fill="none" stroke="#FF2D3D" stroke-width="2"/><rect x="203" y="183" width="53.7333" height="14" rx="7" fill="#FF2D3D"/><rect x="289.667" y="183" width="53.7333" height="14" rx="2" fill="#FF2D3D"/><rect x="376.333" y="183" width="53.7333" height="14" rx="2" fill="#FF2D3D"/>
+<text x="750" y="195" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#F2EDE4" opacity=".65">medio</text>
+<text x="40" y="238" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#F2EDE4">HTML</text>
+<rect x="200" y="224" width="520" height="20" rx="10.0" fill="none" stroke="#FF2D3D" stroke-width="2"/><rect x="203" y="227" width="53.7333" height="14" rx="7" fill="#FF2D3D"/><rect x="289.667" y="227" width="53.7333" height="14" rx="2" fill="#FF2D3D"/><rect x="376.333" y="227" width="53.7333" height="14" rx="2" fill="#FF2D3D"/>
+<text x="750" y="239" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#F2EDE4" opacity=".65">medio</text>
+<text x="40" y="282" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#F2EDE4">CSS</text>
+<rect x="200" y="268" width="520" height="20" rx="10.0" fill="none" stroke="#FF2D3D" stroke-width="2"/><rect x="203" y="271" width="53.7333" height="14" rx="7" fill="#FF2D3D"/><rect x="289.667" y="271" width="53.7333" height="14" rx="2" fill="#FF2D3D"/><rect x="376.333" y="271" width="53.7333" height="14" rx="2" fill="#FF2D3D"/>
+<text x="750" y="283" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#F2EDE4" opacity=".65">medio</text>
+</svg>
