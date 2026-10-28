@@ -94,11 +94,6 @@ Mi forma de trabajar: investigar, probar e iterar hasta que funciona. Fuera del 
   <img height="170" src="https://streak-stats.demolab.com?user=PolHernaez&hide_border=true&background=F2EDE4&ring=FF2D3D&fire=FF2D3D&currStreakLabel=FF2D3D&currStreakNum=0A0909&sideNums=0A0909&sideLabels=0A0909&dates=5C5650&stroke=D8D0C4" alt="Racha de contribuciones">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PolHernaez&hide_border=true&area=true&bg_color=0A0909&color=F2EDE4&line=FF2D3D&point=F2EDE4&area_color=FF2D3D&title_color=FF2D3D">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PolHernaez&hide_border=true&area=true&bg_color=F2EDE4&color=0A0909&line=FF2D3D&point=0A0909&area_color=FF2D3D&title_color=FF2D3D" alt="Gráfico de actividad">
-</picture>
-
 <!-- La genera .github/workflows/snake.yml en la rama "output" cada día -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PolHernaez/PolHernaez/output/snake-dark.svg">
