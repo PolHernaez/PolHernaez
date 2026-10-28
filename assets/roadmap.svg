@@ -1,28 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="Rastro: entrenador de hockey 2022-26, Bachillerato 2023-25, DAM 2025, prácticas NTT DATA 2026, título 2027, siguiente: un equipo de IA">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="Trayectoria: entrenador de hockey 2022-26, Bachillerato 2023-25, DAM 2025, prácticas NTT DATA 2026, título 2027, siguiente: un equipo de IA">
 <rect width="1000" height="230" rx="14" fill="#0A0909" stroke="#2a2424"/>
-<text x="40" y="44" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2" fill="#FF2D3D">EL RASTRO</text>
+<text x="40" y="44" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" letter-spacing="2" fill="#FF2D3D">TRAYECTORIA</text>
 <path d="M80,116 H770" stroke="#FF2D3D" stroke-width="3"/><path d="M770,116 H915" stroke="#FF2D3D" stroke-width="3" stroke-dasharray="8 8"/>
-<circle cx="80" cy="116" r="8" fill="#FF2D3D" stroke="#FF2D3D" stroke-width="3"/>
+<rect x="72" y="108" width="16" height="16" fill="#FF2D3D" stroke="#FF2D3D" stroke-width="3"/>
 <text x="80" y="88" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#FF2D3D">2022–26</text>
 <text x="80" y="156" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F2EDE4" opacity="0.8">Entrenador de</text>
 <text x="80" y="178" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F2EDE4" opacity="0.8">hockey patines</text>
-<circle cx="247" cy="116" r="8" fill="#FF2D3D" stroke="#FF2D3D" stroke-width="3"/>
+<rect x="239" y="108" width="16" height="16" fill="#FF2D3D" stroke="#FF2D3D" stroke-width="3"/>
 <text x="247" y="88" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#FF2D3D">2023–25</text>
 <text x="247" y="156" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F2EDE4" opacity="0.8">Bachillerato</text>
 <text x="247" y="178" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F2EDE4" opacity="0.8">Tecnológico</text>
-<circle cx="414" cy="116" r="8" fill="#FF2D3D" stroke="#FF2D3D" stroke-width="3"/>
+<rect x="406" y="108" width="16" height="16" fill="#FF2D3D" stroke="#FF2D3D" stroke-width="3"/>
 <text x="414" y="88" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#FF2D3D">2025</text>
 <text x="414" y="156" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F2EDE4" opacity="0.8">DAM · Escola</text>
 <text x="414" y="178" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F2EDE4" opacity="0.8">Pia Mataró</text>
-<circle cx="581" cy="116" r="8" fill="#FF2D3D" stroke="#FF2D3D" stroke-width="3"/>
+<rect x="573" y="108" width="16" height="16" fill="#FF2D3D" stroke="#FF2D3D" stroke-width="3"/>
 <text x="581" y="88" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#FF2D3D">2026</text>
 <text x="581" y="156" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F2EDE4" opacity="0.8">Prácticas en</text>
 <text x="581" y="178" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F2EDE4" opacity="0.8">NTT DATA</text>
-<circle cx="748" cy="116" r="8" fill="#0A0909" stroke="#FF2D3D" stroke-width="3"/>
+<rect x="740" y="108" width="16" height="16" fill="#0A0909" stroke="#FF2D3D" stroke-width="3"/>
 <text x="748" y="88" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#FF2D3D">2027</text>
 <text x="748" y="156" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F2EDE4" opacity="0.8">Título</text>
 <text x="748" y="178" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#F2EDE4" opacity="0.8">de DAM</text>
-<circle cx="915" cy="116" r="11" fill="#FF2D3D" stroke="#FF2D3D" stroke-width="3"/>
+<rect x="907" y="108" width="16" height="16" fill="#FF2D3D" stroke="#FF2D3D" stroke-width="3"/>
 <text x="915" y="88" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#FF2D3D">siguiente</text>
 <text x="915" y="156" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EDE4" opacity="1">Un equipo</text>
 <text x="915" y="178" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F2EDE4" opacity="1">de IA</text>

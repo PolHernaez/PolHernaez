@@ -1,4 +1,4 @@
-<!-- HEADER: mapache que se dibuja y parpadea; versión clara y oscura -->
+<!-- HEADER: la H se traza, la recorre un escaneo y a ratos hace glitch; versión clara y oscura -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
@@ -6,22 +6,22 @@
   <img src="assets/header-dark.svg" alt="Pol Hernaez — desarrollador multiplataforma con rumbo a la IA" width="100%">
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FF2D3D&center=true&vCenter=true&width=620&lines=Estudiante+de+DAM+%C2%B7+pr%C3%A1cticas+en+NTT+DATA;Java+%C2%B7+SQL+%C2%B7+Firebase+%C2%B7+IA+generativa;Curioso+por+naturaleza%3A+rebusco+hasta+que+funciona;Buscando+un+equipo+de+IA+donde+crecer" alt="Estudiante de DAM con prácticas en NTT DATA. Java, SQL, Firebase e IA generativa.">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FF2D3D&center=true&vCenter=true&width=620&lines=Estudiante+de+DAM+%C2%B7+pr%C3%A1cticas+en+NTT+DATA;Java+%C2%B7+SQL+%C2%B7+Firebase+%C2%B7+IA+generativa;Curioso+por+naturaleza%3A+investigo+hasta+que+funciona;Buscando+un+equipo+de+IA+donde+crecer" alt="Estudiante de DAM con prácticas en NTT DATA. Java, SQL, Firebase e IA generativa.">
 
 <img src="https://komarev.com/ghpvc/?username=PolHernaez&label=VISITAS&color=FF2D3D&style=flat-square" alt="Visitas">
 </div>
 
-<img src="assets/tail.svg" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
-## <img src="assets/mask.svg" height="20" alt=""> Sobre mí
+## <img src="assets/h.svg" height="20" alt=""> Sobre mí
 
 Estudiante de segundo de **DAM** en Escola Pia Mataró, de prácticas en **NTT DATA Barcelona**. Tengo buena base en **Java y SQL**, y uso **IA generativa** a diario para especificar, iterar y probar aplicaciones. Busco entrar en un **equipo de IA** donde crecer, aprender APIs REST y resolver problemas reales.
 
-Trabajo como un mapache: abro, rebusco, pruebo y no suelto el problema hasta que funciona. Fuera del código, tres años como entrenador de hockey patines.
+Mi forma de trabajar: investigar, probar e iterar hasta que funciona. Fuera del código, tres años como entrenador de hockey patines.
 
-> *«Si hay una forma más simple de hacerlo, todavía no he terminado de rebuscar.»*
+> *«Si hay una forma más simple de hacerlo, todavía no he terminado.»*
 
-## <img src="assets/mask.svg" height="20" alt=""> Ahora mismo
+## <img src="assets/h.svg" height="20" alt=""> Ahora mismo
 
 <table>
   <tr>
@@ -31,7 +31,7 @@ Trabajo como un mapache: abro, rebusco, pruebo y no suelto el problema hasta que
   </tr>
 </table>
 
-## <img src="assets/mask.svg" height="20" alt=""> Stack
+## <img src="assets/h.svg" height="20" alt=""> Stack
 
 <div align="center">
 
@@ -48,9 +48,9 @@ Trabajo como un mapache: abro, rebusco, pruebo y no suelto el problema hasta que
 
 </div>
 
-<img src="assets/tail.svg" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
-## <img src="assets/mask.svg" height="20" alt=""> Mis apps para Android
+## <img src="assets/h.svg" height="20" alt=""> Mis apps para Android
 
 <div align="center">
 
@@ -67,22 +67,22 @@ Trabajo como un mapache: abro, rebusco, pruebo y no suelto el problema hasta que
 
 </div>
 
-## <img src="assets/mask.svg" height="20" alt=""> Proyectos de clase
+## <img src="assets/h.svg" height="20" alt=""> Proyectos de clase
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
 | **[Ajedrez](https://github.com/PolHernaez/PE07-Escacs)** | Juego completo de ajedrez con tests JUnit | Java · JUnit |
 | **[Juego de la Oca](https://github.com/PolHernaez/PE6--Joc-de-l-oca-Pol-Hernaez)** | Implementación del juego de mesa clásico | Java |
 
-<img src="assets/tail.svg" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
-## <img src="assets/mask.svg" height="20" alt=""> El rastro
+## <img src="assets/h.svg" height="20" alt=""> Trayectoria
 
 <div align="center">
 <img src="assets/roadmap.svg" width="100%" alt="Entrenador de hockey 2022-26, Bachillerato Tecnológico 2023-25, DAM 2025, prácticas en NTT DATA 2026, título de DAM 2027 y, después, un equipo de IA">
 </div>
 
-## <img src="assets/mask.svg" height="20" alt=""> En GitHub
+## <img src="assets/h.svg" height="20" alt=""> En GitHub
 
 <div align="center">
 <picture>
@@ -106,7 +106,7 @@ Trabajo como un mapache: abro, rebusco, pruebo y no suelto el problema hasta que
 </picture>
 </div>
 
-## <img src="assets/mask.svg" height="20" alt=""> Contacto
+## <img src="assets/h.svg" height="20" alt=""> Contacto
 
 <div align="center">
 
@@ -116,5 +116,5 @@ Trabajo como un mapache: abro, rebusco, pruebo y no suelto el problema hasta que
 </div>
 
 <div align="center">
-<img src="assets/footer.svg" width="100%" alt="Fin del rastro: el mapache vuelve a rebuscar">
+<img src="assets/footer.svg" width="100%" alt="H de Hernaez. Gracias por pasar">
 </div>
