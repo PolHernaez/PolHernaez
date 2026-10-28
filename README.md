@@ -86,8 +86,8 @@ Fuera de clase diseño y publico mis propias apps para Android. Fuera del códig
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PolHernaez&show_icons=true&hide_border=true&count_private=true&bg_color=0A0909&title_color=FF2D3D&icon_color=FF2D3D&text_color=F2EDE4">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PolHernaez&show_icons=true&hide_border=true&count_private=true&bg_color=F2EDE4&title_color=FF2D3D&icon_color=FF2D3D&text_color=0A0909" alt="Estadísticas de GitHub">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PolHernaez&show_icons=true&hide_border=true&count_private=true&hide_rank=true&bg_color=0A0909&title_color=FF2D3D&icon_color=FF2D3D&text_color=F2EDE4">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PolHernaez&show_icons=true&hide_border=true&count_private=true&hide_rank=true&bg_color=F2EDE4&title_color=FF2D3D&icon_color=FF2D3D&text_color=0A0909" alt="Estadísticas de GitHub">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PolHernaez&hide_border=true&background=0A0909&ring=FF2D3D&fire=FF2D3D&currStreakLabel=FF2D3D&currStreakNum=F2EDE4&sideNums=F2EDE4&sideLabels=F2EDE4&dates=8C8680&stroke=2A2424">
