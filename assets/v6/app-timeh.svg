@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" width="320" height="260" role="img" aria-label="TimeH: Alarmas que preguntan si mañana vas a la oficina. Descargar APK">
+<rect x="1" y="1" width="318" height="258" rx="14" fill="#0A0909" stroke="#2a2424" stroke-width="2"/>
+<g transform="translate(10,8) scale(0.068)" fill="none" stroke="#FF2D3D"><path stroke-width="63" d="M627,276 a352,352 0 1,0 0.1,0 z"/><path stroke-width="40" d="M352,297 L392,337 M902,297 L862,337"/><path stroke-width="63" stroke-linecap="round" d="M409,904 L345,985 M845,904 L909,985"/><path fill="#FF2D3D" stroke="none" d="M477,449 h5 a38,38 0 0 1 38,38 v284 a38,38 0 0 1 -38,38 h-5 a38,38 0 0 1 -38,-38 v-284 a38,38 0 0 1 38,-38 z M772,449 h5 a38,38 0 0 1 38,38 v284 a38,38 0 0 1 -38,38 h-5 a38,38 0 0 1 -38,-38 v-284 a38,38 0 0 1 38,-38 z M500,598 H755 V666 H500 Z"/><path fill="#FF2D3D" stroke-width="30" stroke-linejoin="round" d="M247,374 A130,137 -36.5 0 1 453,224 Z M1007,374 A130,137 36.5 0 0 801,224 Z"/></g>
+<text x="28" y="132" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="48" fill="#F2EDE4">TimeH</text>
+<text x="28" y="164" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#F2EDE4" opacity=".72">Alarmas que preguntan si</text>
+<text x="28" y="186" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#F2EDE4" opacity=".72">mañana vas a la oficina.</text>
+<text x="28" y="230" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="14" font-weight="700" letter-spacing="2" fill="#FF2D3D">DESCARGAR APK →</text>
+</svg>

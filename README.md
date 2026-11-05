@@ -59,9 +59,12 @@ Fuera de clase diseño y publico mis propias apps para Android. Fuera del códig
 
 <table>
   <tr>
-    <td width="33%"><a href="https://github.com/PolHernaez/immic/releases/latest/download/Immic.apk"><img src="assets/v6/app-immic.svg" width="100%" alt="Immic: lista de tareas por voz. Descargar APK"></a></td>
-    <td width="33%"><a href="https://github.com/PolHernaez/parkh-releases/releases/latest/download/ParkH.apk"><img src="assets/v6/app-parkh.svg" width="100%" alt="ParkH: dónde está el coche y en qué estado lo dejaste. Descargar APK"></a></td>
-    <td width="33%"><a href="https://github.com/PolHernaez/noads-releases/releases/latest/download/NoAds.apk"><img src="assets/v6/app-noads.svg" width="100%" alt="No Ads: bloqueador de anuncios y DNS cifrado. Descargar APK"></a></td>
+    <td width="50%"><a href="https://github.com/PolHernaez/immic/releases/latest/download/Immic.apk"><img src="assets/v6/app-immic.svg" width="100%" alt="Immic: lista de tareas por voz. Descargar APK"></a></td>
+    <td width="50%"><a href="https://github.com/PolHernaez/parkh-releases/releases/latest/download/ParkH.apk"><img src="assets/v6/app-parkh.svg" width="100%" alt="ParkH: dónde está el coche y en qué estado lo dejaste. Descargar APK"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/PolHernaez/noads-releases/releases/latest/download/NoAds.apk"><img src="assets/v6/app-noads.svg" width="100%" alt="No Ads: bloqueador de anuncios y DNS cifrado. Descargar APK"></a></td>
+    <td width="50%"><a href="https://github.com/PolHernaez/timeh-releases/releases/latest/download/TimeH.apk"><img src="assets/v6/app-timeh.svg" width="100%" alt="TimeH: alarmas que preguntan si mañana vas a la oficina. Descargar APK"></a></td>
   </tr>
 </table>
 
